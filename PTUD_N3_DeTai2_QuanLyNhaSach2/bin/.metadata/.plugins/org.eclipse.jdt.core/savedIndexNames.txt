@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Dinh Phong\Desktop\HOC\phat trien ung dung\do an\demo2\PTUD_N3_DeTai2_QuanLyNhaSach2\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+127808628.index
+2964123237.index
